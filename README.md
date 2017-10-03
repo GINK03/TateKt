@@ -1,4 +1,4 @@
-# tate
+# TateKt
 
 縦書き変換
 
@@ -14,7 +14,7 @@ $ kotlinc tate.kt -o tate
 
 ```
 $ tate.kexe
-Kotlin-Native芸を使い、
+Kotlinを使い、
 テキストを縦書きに
 変換するコマンドを
 書いたので、
